@@ -54,6 +54,6 @@ This project implements a multi-functional home automation system using Arduino.
 ---
 
 🔧 Future Improvements
-Add wireless connectivity for remote control.
-Implement data logging for light and temperature values.
-Introduce advanced security features like RFID or fingerprint sensors.
+- Add wireless connectivity for remote control.
+- Implement data logging for light and temperature values.
+- Introduce advanced security features like RFID or fingerprint sensors.

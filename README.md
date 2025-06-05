@@ -1,4 +1,4 @@
-# Smart-Home-project
+# Smart Home project
 
 
 # Arduino-Based Multi-Function Home Automation Project
